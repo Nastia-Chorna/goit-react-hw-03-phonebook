@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/goit-react-hw-03-phonebook/static/js/main.0fc39cbc.js",
+    "static/js/787.02879320.chunk.js": "/goit-react-hw-03-phonebook/static/js/787.02879320.chunk.js",
+    "index.html": "/goit-react-hw-03-phonebook/index.html",
+    "main.0fc39cbc.js.map": "/goit-react-hw-03-phonebook/static/js/main.0fc39cbc.js.map",
+    "787.02879320.chunk.js.map": "/goit-react-hw-03-phonebook/static/js/787.02879320.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.0fc39cbc.js"
+  ]
+}
